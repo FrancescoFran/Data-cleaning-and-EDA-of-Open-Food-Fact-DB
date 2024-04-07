@@ -1,4 +1,4 @@
-<p align="center"><img width="300" ><https://github.com/FrancescoFran/Data-cleaning-and-EDA-of-Open-Food-Fact-DB/assets/96301982/bbcb1413-1a5e-4ecf-a8d4-96585ff8ee91></p>
+<p align="center"><img width="300" alt="Open_Food" src="https://github.com/FrancescoFran/Data-cleaning-and-EDA-of-Open-Food-Fact-DB/assets/96301982/bbcb1413-1a5e-4ecf-a8d4-96585ff8ee91"></p>
 <h1 align="center">Data-cleaning-and-EDA-of-Open-Food-Fact-DB</h1>
 <h2 align="left">Basic Overview</h2>
 
